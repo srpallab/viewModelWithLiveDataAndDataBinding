@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">View Model With Live Data And Data Binding</string>
+    <string name="add_one">ADD One</string>
+</resources>
